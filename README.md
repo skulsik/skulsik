@@ -1,5 +1,5 @@
 <div id="header" align="center" style="width=400px; height=400px">
- ![php developer](php-developoer.svg)
+ <img src="https://github.com/skulsik/skulsik/blob/main/php-developer.jpg"/>
 </div>
 ## Hi there 👋
 
